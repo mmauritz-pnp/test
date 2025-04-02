@@ -11,6 +11,8 @@ public class money {
 		converttodollar(money);
 		converttoyen(money);
 		
+		//test
+		
 		scanner.close();
 	}
 
