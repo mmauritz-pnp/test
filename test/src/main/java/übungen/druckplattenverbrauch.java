@@ -25,6 +25,8 @@ public class druckplattenverbrauch {
 				+ "GROUP BY datum, objekt, ausgabe, plattenart;";
 		
 		Connection con = DriverManager.getConnection(dburl, dbuser, dbpassword);
+		
+		//test
 				
 		}
 	}
